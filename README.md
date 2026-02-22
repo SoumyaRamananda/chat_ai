@@ -1,16 +1,2 @@
 # chat_ai
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A production-ready AI chat application built with Flutter and BLoC architecture, featuring Firebase Authentication (guest + Google/Apple linking), Firestore real-time conversations, persistent chat history, and clean modular clean-architecture structure.
